@@ -7,6 +7,7 @@
 🚀 Goal: Become a Data Analyst  
 💡 Passionate about turning data into insights and solving real-world problems  
 
+<img src="https://komarev.com/ghpvc/?username=rohanRaj-py&label=Profile%20views&color=blue&style=for-the-badge" />
 ---
 
 ## 🤝 Connect with Me  
