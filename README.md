@@ -28,7 +28,7 @@
 #### 💻 Languages  
 ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/SQL-orange?style=flat-square&logo=mysq
+![SQL](https://img.shields.io/badge/SQL-orange?style=flat-square&logo=mysql)
 <br>
 #### 📊 Data Analysis & Visualization  
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=flat-square&logo=numpy)
