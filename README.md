@@ -10,8 +10,16 @@
 ---
 
 ## 🤝 Connect with Me  
-📧 your-email@gmail.com  
-🔗 [LeetCode](https://leetcode.com/u/sparta_100/)  
+
+📧 rohan0902raj@gmail.com  
+
+<a href="https://leetcode.com/u/sparta_100/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/rohan-kumar-raj-64b422361" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
 
 ---
 
