@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Rohan Kumar Raj  
-### 💻 Aspiring SDE | Data Enthusiast  
+### 💻 Aspiring Data Analyst | ML Enthusiast    
 
 ---
 
-🌱 Currently learning DSA, Python, SQL & Web Development  
-🚀 Goal: Become a Software Development Engineer  
-💡 Passionate about solving problems and building real-world projects  
+🌱 Currently learning Python, SQL & Data Analysis  
+🚀 Goal: Become a Data Analyst  
+💡 Passionate about turning data into insights and solving real-world problems  
 
 ---
 
