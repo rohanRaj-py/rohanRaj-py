@@ -17,36 +17,28 @@
 
 ## 🛠️ Tech Stack  
 
-### 💻 Languages  
+# 💻 Languages  
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
-
 <br>
-
-### 📊 Data Analysis & Visualization  
+# 📊 Data Analysis & Visualization  
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-darkblue?style=for-the-badge&logo=plotly)
-
 <br>
-
-### 📈 Data Tools  
+# 📈 Data Tools  
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
-
 <br>
-
-### 🌐 Web Development  
+# 🌐 Web Development  
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-
 <br>
-
-### 🗄️ Databases & Tools  
+# 🗄️ Databases & Tools  
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ---
