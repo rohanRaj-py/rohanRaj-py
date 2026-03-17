@@ -26,29 +26,29 @@
 ## 🛠️ Tech Stack  
 
 #### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=c%2B%2B)
+![SQL](https://img.shields.io/badge/SQL-orange?style=flat-square&logo=mysq
 <br>
 #### 📊 Data Analysis & Visualization  
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-darkblue?style=for-the-badge&logo=plotly)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=flat-square&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-darkblue?style=flat-square&logo=plotly)
 <br>
 #### 📈 Data Tools  
-![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat-square&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-green?style=flat-square&logo=microsoft-excel)
 <br>
 #### 🌐 Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
 <br>
 #### 🗄️ Databases & Tools  
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git)
 ---
 
 ## 📊 GitHub Stats  
