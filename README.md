@@ -51,17 +51,6 @@
 ![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git)
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanRaj-py&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanRaj-py&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rohanRaj-py&theme=radical)
-
-</div>
 
 ## 🏆 Achievements  
 - Solved 300+ DSA problems on LeetCode  
