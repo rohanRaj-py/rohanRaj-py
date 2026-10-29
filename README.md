@@ -13,7 +13,7 @@
 
 
 ## 🏆 Achievements  
-- Solved 350+ DSA problems on LeetCode  
+- Solved 600+ DSA problems  
 - Consistently improving problem-solving skills  
 
 ---
